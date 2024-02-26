@@ -6,6 +6,10 @@
 *.ko
 *.obj
 *.elf
+*.vsidx
+*.cache
+*.props
+*.suo
 
 # Linker output
 *.ilk
